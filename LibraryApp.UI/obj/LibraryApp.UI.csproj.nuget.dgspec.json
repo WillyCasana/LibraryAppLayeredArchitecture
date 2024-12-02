@@ -90,7 +90,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/LibraryApp.Models.csproj": {
+                "projectPath": "/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/LibraryApp.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
