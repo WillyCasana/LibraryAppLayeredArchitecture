@@ -1,0 +1,16 @@
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/bin/Debug/net8.0/LibraryApp.DAL.deps.json
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/bin/Debug/net8.0/LibraryApp.DAL.dll
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/bin/Debug/net8.0/LibraryApp.DAL.pdb
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/bin/Debug/net8.0/LibraryApp.Models.dll
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/bin/Debug/net8.0/LibraryApp.Models.pdb
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/obj/Debug/net8.0/LibraryApp.DAL.csproj.AssemblyReference.cache
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/obj/Debug/net8.0/LibraryApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/obj/Debug/net8.0/LibraryApp.DAL.AssemblyInfoInputs.cache
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/obj/Debug/net8.0/LibraryApp.DAL.AssemblyInfo.cs
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/obj/Debug/net8.0/LibraryApp.DAL.csproj.CoreCompileInputs.cache
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/obj/Debug/net8.0/LibraryApp.DAL.sourcelink.json
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/obj/Debug/net8.0/LibraryA.F9379074.Up2Date
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/obj/Debug/net8.0/LibraryApp.DAL.dll
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/obj/Debug/net8.0/refint/LibraryApp.DAL.dll
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/obj/Debug/net8.0/LibraryApp.DAL.pdb
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.DAL/obj/Debug/net8.0/ref/LibraryApp.DAL.dll

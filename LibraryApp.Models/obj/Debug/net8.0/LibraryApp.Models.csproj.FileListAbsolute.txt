@@ -1,0 +1,12 @@
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/bin/Debug/net8.0/LibraryApp.Models.deps.json
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/bin/Debug/net8.0/LibraryApp.Models.dll
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/bin/Debug/net8.0/LibraryApp.Models.pdb
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/obj/Debug/net8.0/LibraryApp.Models.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/obj/Debug/net8.0/LibraryApp.Models.AssemblyInfoInputs.cache
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/obj/Debug/net8.0/LibraryApp.Models.AssemblyInfo.cs
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/obj/Debug/net8.0/LibraryApp.Models.csproj.CoreCompileInputs.cache
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/obj/Debug/net8.0/LibraryApp.Models.sourcelink.json
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/obj/Debug/net8.0/LibraryApp.Models.dll
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/obj/Debug/net8.0/refint/LibraryApp.Models.dll
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/obj/Debug/net8.0/LibraryApp.Models.pdb
+/workspaces/LibraryAppLayeredArchitecture/LibraryApp.Models/obj/Debug/net8.0/ref/LibraryApp.Models.dll
